@@ -1,0 +1,1 @@
+python-basics-1: I built a simple decision making pipe, which asks python if a1 is larger than 100. If a1 is larger than 100, a1 becomes 11, if not, it stays at 10. The logic of the second chunk of codes is python needs to conduct repeated calculation for a1 using While. Python will calculate a1 using the operations until a1 approaches 50.
