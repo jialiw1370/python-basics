@@ -2,6 +2,7 @@
 name = input("What is your name? ")
 age = input("How old are you? ")
 goal = input("What is your skincare goal? ")
+
 # Provide skincare recommendation based on their goal
 recommendations = {
 "brighten" : "Vitamin C or Niacinamide",
